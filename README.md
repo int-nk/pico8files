@@ -1,2 +1,2 @@
 # pico8files
-Some pico8 projects that I've developed
+These are some of the projects I've developed while using Pico-8
