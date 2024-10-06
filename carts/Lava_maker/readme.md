@@ -8,7 +8,9 @@ to be added
 
 # How to Play:
 (Z) - Confirm (will display as (O) in game)
+
 (X) - Undo
+
 (Arrow Keys) - Movement
 
 
