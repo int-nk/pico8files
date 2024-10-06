@@ -12,4 +12,4 @@ Bottom Left space acts as a space key
 # Play
 Link [here.](https://www.lexaloffle.com/bbs/cart_info.php?cid=miruyarode-0)
 
-[Source Code](https://github.com/int-nk/pico8files/tree/main/carts)
+[Source Code](https://github.com/int-nk/pico8files/blob/main/carts/keyboard/keyboard.p8)
