@@ -14,8 +14,11 @@ This is a small demo I made based on a iOS lawn mowing game. I made it into a pu
 
 (Arrow Keys) - Movement
 
+# Play
 
-# Links
+[Play this online here](https://www.lexaloffle.com/bbs/cart_info.php?cid=tahopimopa-0)
+
+# Other Stuff
 
 [Source Code](https://github.com/int-nk/pico8files/blob/main/carts/Lava_maker/lawnmower010.p8)
 
