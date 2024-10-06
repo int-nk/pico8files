@@ -4,7 +4,6 @@ This is a small demo I made based on a iOS lawn mowing game. I made it into a pu
 
 
 # Images/Screenshots
-to be added
 ![lavamaker010_0](https://github.com/user-attachments/assets/f8621031-61d1-4cca-9be7-3864a26d3725)
 
 # How to Play:
