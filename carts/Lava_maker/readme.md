@@ -16,7 +16,7 @@ This is a small demo I made based on a iOS lawn mowing game. I made it into a pu
 
 # Play
 
-[Play this online here](https://www.lexaloffle.com/bbs/cart_info.php?cid=tahopimopa-0)
+[Play online here](https://www.lexaloffle.com/bbs/cart_info.php?cid=tahopimopa-0)
 
 # Other Stuff
 
