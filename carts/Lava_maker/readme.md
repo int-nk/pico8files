@@ -6,4 +6,4 @@ to be added
 
 # Links
 
-https://github.com/int-nk/pico8files/blob/main/carts/Lava_maker/lavamaker010_windows.zip
+https://github.com/int-nk/pico8files/blob/main/carts/Lava_maker/lavamaker010_windows.zip (Press download raw file on the top right of the bar)
