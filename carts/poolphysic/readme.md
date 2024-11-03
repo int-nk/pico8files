@@ -6,7 +6,7 @@ I was playing the Yakuza games and felt inspired to try to make pool, or at leas
 
 ![poolphys p8_1](https://github.com/user-attachments/assets/3256233d-d0c5-40ec-9f6c-39b390dfe4d8)
 
-
+(The pockets are just for visual effect. They don't have any function in this program.)
 
 # Play
 
